@@ -1,0 +1,7 @@
+interface:
+  display_name: "Candidate Interview Designer"
+  short_description: "Build interview manuals from resumes"
+  default_prompt: "Use $candidate-interview-designer to turn a candidate resume into a one-hour interview manual with project verification, ownership-boundary questions, technical probes, expected answers, live scoring, and follow-up questions."
+
+policy:
+  allow_implicit_invocation: true
