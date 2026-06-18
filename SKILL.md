@@ -1,9 +1,9 @@
 ---
-name: candidate-interview-designer
+name: interviewer-designer
 description: Generate an interviewer manual from a candidate resume or profile. Use when the user asks how to interview a candidate, verify resume project authenticity, choose assessment directions, design a one-hour interview flow, create technical or soft-skill question pools, generate expected answers, compare candidate answers, score responses, or produce follow-up probes.
 ---
 
-# Candidate Interview Designer
+# Interviewer Designer
 
 ## Core Workflow
 
