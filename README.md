@@ -26,7 +26,14 @@ Most interviews fail in predictable ways: the interviewer grills a candidate on 
 
 ## Quick start
 
-In **Claude Code** (or any agent that loads skills):
+Clone the repo into your agent's skills directory:
+
+```bash
+git clone https://github.com/JasonJarvan/interviewer-designer.git candidate-interview-designer
+# Claude Code example: place it under ~/.claude/skills/
+```
+
+Then, in **Claude Code** (or any agent that loads skills):
 
 ```
 Use candidate-interview-designer to turn this resume into a one-hour
